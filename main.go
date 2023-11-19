@@ -1,7 +1,8 @@
 package main
 
-import "fmt"
+import "solid/s"
 
 func main() {
-	fmt.Println("Hello, world!")
+	s.NotResponsible()
+	s.Responsible()
 }
