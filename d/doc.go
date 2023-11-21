@@ -13,3 +13,4 @@ package d
 //
 // https://en.wikipedia.org/wiki/Dependency_inversion_principle
 // https://martinfowler.com/articles/dipInTheWild.html
+// https://stg-tud.github.io/sedc/Lecture/ws13-14/3.5-DIP.html#mode=document
